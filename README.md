@@ -19,8 +19,7 @@ A signature may be capable of expressing operations not explicitly listed. For e
  
 # References 
 [1] R. Hirsch. The finite representation property for reducts of relation algebra,
-2011. Manuscript. http://www.cs.ucl.ac.uk/fileadmin/UCL-CS/staff/Robin_
-Hirsch/Papers/domain_fin.pdf.
+2011. Manuscript. http://www.cs.ucl.ac.uk/fileadmin/UCL-CS/staff/Robin_Hirsch/Papers/domain_fin.pdf.
   
 [2] R. D. Maddux. Relation Algebras, volume 150 of Studies in Logic and the
 Foundations of Mathematics. Elsevier B. V., Amsterdam, 2006.
