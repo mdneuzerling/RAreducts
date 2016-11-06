@@ -12,7 +12,7 @@ For more information about relation algebras, see [2], or Tarski's original pape
 
 This is a collection of methods used to generate the list of reduct signatures. In particular, generateSignatures(["comp"]) is called on to generate the list of reducts of the full signature capable of expressing at least composition. The order in which these operations are displayed in each signature is maintained through the sigSort method.
   
-The full signature used here is the Tarski signature along with the partial order derived from the lattice operations, as well as domain and range operators $\dom$ and $\ran$. Thus, the full signature considered is
+The full signature used here is the Tarski signature along with the partial order derived from the lattice operations, as well as domain and range operators. Thus, the full signature considered is
     comp, join, meet, le, con, -, id, 0, top, dom, ran
     
 A signature may be capable of expressing operations not explicitly listed. For example, any signature containing a lattice operation a lattice operation is equipped with a partial order inherited from that operation. In order to avoid redundancy in the full list, each signature is 'completed' according to the rules expressed in [1].
